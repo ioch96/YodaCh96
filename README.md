@@ -1,9 +1,9 @@
-<h2>I'm Ioannis Christodoulakis! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>I'm Ioannis Christodoulakis! <img src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Hardware Engineer at <a href="https://new.siemens.com/ch/de.html?gclid=EAIaIQobChMI7KaQhNag7wIVTdnVCh2OvQo5EAAYASAAEgIZDvD_BwE">Siemens AG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/IaWMz9Ln8OWvf66z6k/giphy.gif" width="50"> A little more about me...  
 
 - 🎓 I'm studying in HFIE as an application developer.
 - ❤️ I love open source.
