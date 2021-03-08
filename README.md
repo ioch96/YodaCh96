@@ -1,4 +1,4 @@
-<h2>I'm Ioannis Christodoulakis! ~Γιάννης Χριστοδουλάκης~</h2>
+<h2>I'm Ioannis Christodoulakis!</h2>
 <img align='right' src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200.gif" width="230">
 <p><em>Hardware Engineer at <a href="https://new.siemens.com/ch/de.html?gclid=EAIaIQobChMI7KaQhNag7wIVTdnVCh2OvQo5EAAYASAAEgIZDvD_BwE">Siemens AG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
