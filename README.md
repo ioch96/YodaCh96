@@ -9,7 +9,7 @@
 - ❤️ I love open source.
 - 💻 I am busy with my research recently.
 - I like to explore new technologies and develop software solutions.
-- 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
+- I am always on the lookout for new projects to work on and new people to collaborate with.
 - 📫 How to reach me: ioannis.ch@outlook.com!
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
