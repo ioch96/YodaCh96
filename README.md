@@ -5,7 +5,7 @@
 
 ### A little more about me...  
 
-- 🎓 I'm studying in HFIE as an application developer.
+- 🎓 I'm studying in a [higher technical School for Electronics and Informatics](https://www.zg.ch/behoerden/volkswirtschaftsdirektion/hfie) as an application developer.
 - ❤️ I love open source.
 - 💻 I am busy with my research recently.
 - I like to explore new technologies and develop software solutions.
