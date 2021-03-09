@@ -34,11 +34,37 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ----
 
+### Hardware Engineer at GIBZ
+
+#### Hardware and software engineering
+
+- Todo
+
+#### Electronics
+
+- Todo
+
+#### Electrical engineering
+
+- Todo
+
+#### Drawing technology
+
+- Todo
+
+#### Materials technology
+
+- Todo
+
+----
+
+### Application Development at HFIE
+
 <!-- ### Strukturierte Programmierung -->
-### Structured programming
+#### Structured programming
 
 <!-- #### Kompetenzen -->
-#### Skills
+##### Skills
 
 <!--
 - Ein Problem analysieren und einen geeigneten Algorithmus zur Lösung mit den Grundelementen Zuweisung, Verzweigung und Schleife entwerfen und in Form einer Ablaufstruktur abbilden.
@@ -65,7 +91,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Define acceptance tests (black box test) to ensure error-free processing of the programme.
 
 <!-- #### Kenntnisse -->
-#### Knowledge
+##### Knowledge
 
 <!--
 - Kennt die wichtigsten Kontrollstrukturen der strukturierten Programmierung (Sequenz, Selektion, Iteration) und kann an Beispielen erläutern, welche Sachverhalte im Ablauf eines Algorithmus diesen Kontrollstrukturen entsprechen.
@@ -130,10 +156,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ----
 
 <!-- ### Algorithmen & Datenstrukturen -->
-### Algorithms & Data Structures
+#### Algorithms & Data Structures
 
 <!-- #### Kompetenzen -->
-#### Skills
+##### Skills
 
 <!--
 - Verschiedene Datenstrukturen kennen und anwenden.
@@ -150,7 +176,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Understand and apply finite automata.
 
 <!-- #### Kenntnisse -->
-#### Knowledge
+##### Knowledge
 
 <!--
 - Funktionsweise relevanter Datenstrukturen (z.B. Array, Liste, Stack, Queue, Baum, Tabellen) erklären.
@@ -185,10 +211,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ----
 
 <!-- ### Datenbanktechnik -->
-### Database technology
+#### Database technology
 
 <!-- #### Kompetenzen -->
-#### Skills
+##### Skills
 
 <!--
 - Daten bzw. Datenbestand nach den für die Verarbeitung resp. Auswertung wichtigen Merkmalen hinsichtlich Struktur (Text, Datenblätter, Datenbank usw.) charakterisieren.
@@ -219,7 +245,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Selects and manipulates the datasets of an RDBMS with SQL commands.
 
 <!-- #### Kenntnisse -->
-#### Knowledge
+##### Knowledge
 
 <!--
 - Kennt die verschiedenen Formen von Daten (numerische - Messdaten/ Klassifikationen; verbale - Texte in schriftlicher oder gesprochener Form; nonverbale - Musik, Filme, Videos) die auf einem Datenträger gespeichert werden können und kann aufzeigen, wie sich diese Daten hinsichtlich der Auswertbarkeit mit einem Computersystem verhalten.
@@ -280,10 +306,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ----
 
 <!-- ### Objektorientiert implementieren -->
-### Implement object-oriented
+#### Implement object-oriented
 
 <!-- #### Kompetenzen -->
-#### Skills
+##### Skills
 
 <!--
 - Die Notation dynamischer und statischer Strukturen einer Anwendung mittels Unified Modeling Language (UML) nachvollziehen.
@@ -304,7 +330,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Implement test cases for functional units of an application in order to automatically test the application (unit test).
 
 <!-- #### Kenntnisse -->
-#### Knowledge
+##### Knowledge
 
 <!--
 - Kennt Abstraktionsmittel wie Beziehungen, Klassen, Objekte, Attribute und Methoden, mit denen die reale Welt im Design abgebildet wird.
@@ -373,10 +399,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ----
 
 <!-- ### Prozesssimulation mit Matlab -->
-### Process simulation with Matlab
+#### Process simulation with Matlab
 
 <!-- #### Kompetenzen -->
-#### Skills
+##### Skills
 
 <!--
 - Arbeiten mit Matlab- Oberfläche.
@@ -421,7 +447,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Create apps with multiple windows.
 
 <!-- #### Kenntnisse -->
-#### Knowledge
+##### Knowledge
 
 <!--
 - Kennt die wichtigen Funktionalitäten und die zugehörigen Benutzeroberflächen.
