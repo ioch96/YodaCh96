@@ -1,6 +1,6 @@
 <h2>Hi, I'm Ioannis Christodoulakis!</h2>
 <img align='right' src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200.gif" width="230">
-<p><em>Hardware Engineer at <a href="https://new.siemens.com/ch/de.html?gclid=EAIaIQobChMI7KaQhNag7wIVTdnVCh2OvQo5EAAYASAAEgIZDvD_BwE">Siemens AG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Hardware Engineer at <a href="https://new.siemens.com/ch/de.html?gclid=EAIaIQobChMI7KaQhNag7wIVTdnVCh2OvQo5EAAYASAAEgIZDvD_BwE">Siemens AG</a> and Application Developer at <a href="https://www.zg.ch/behoerden/volkswirtschaftsdirektion/hfie">HFIE</a>
 </em></p>
 
 ### A little more about me...
