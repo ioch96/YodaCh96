@@ -1,16 +1,13 @@
-<h2>I'm Ioannis Christodoulakis!</h2>
+<h2>Hi, I'm Ioannis Christodoulakis!</h2>
 <img align='right' src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200.gif" width="230">
 <p><em>Hardware Engineer at <a href="https://new.siemens.com/ch/de.html?gclid=EAIaIQobChMI7KaQhNag7wIVTdnVCh2OvQo5EAAYASAAEgIZDvD_BwE">Siemens AG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### A little more about me...  
+### A little more about me...
 
-- 🎓 I'm studying in a [higher technical School for Electronics and Informatics](https://www.zg.ch/behoerden/volkswirtschaftsdirektion/hfie) as an application developer.
-- ❤️ I love open source.
-- 💻 I am busy with my research recently.
-- I like to explore new technologies and develop software solutions.
-- I am always on the lookout for new projects to work on and new people to collaborate with.
-- 📫 How to reach me: ioannis.ch@outlook.com!
+I'm a passionate self-taught software engineer from Greece. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. I like to explore new technologies and develop software solutions. I am always on the lookout for new projects to work on and new people to collaborate with.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
