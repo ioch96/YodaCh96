@@ -34,37 +34,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ----
 
-### Hardware Engineer at GIBZ
+<!-- ### Hardware Engineer at GIBZ -->
 
-#### Hardware and software engineering
+<!-- #### Hardware and software engineering -->
 
-- Todo
-
-#### Electronics
-
-- Todo
-
-#### Electrical engineering
-
-- Todo
-
-#### Drawing technology
-
-- Todo
-
-#### Materials technology
-
-- Todo
-
-----
-
-### Application Development at HFIE
+<!-- ### Application Development at HFIE -->
 
 <!-- ### Strukturierte Programmierung -->
-#### Structured programming
+<!-- #### Structured programming -->
 
 <!-- #### Kompetenzen -->
-##### Skills
+<!-- ##### Skills -->
 
 <!--
 - Ein Problem analysieren und einen geeigneten Algorithmus zur Lösung mit den Grundelementen Zuweisung, Verzweigung und Schleife entwerfen und in Form einer Ablaufstruktur abbilden.
@@ -78,7 +58,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Programmcode auf funktionale Korrektheit testen.
 - Abnahmetests (Black-Box-Test) definieren, um die fehlerfreie Verarbeitung des Programms sicher zu stellen.
 -->
-
+<!--
 - Analyse a problem and design a suitable algorithm to solve it using the basic elements of assignment, branching and looping and map it in the form of a flow structure.
 - Determine interfaces between modules and document them with a structured method (structured charts, data dictionary, module specification).
 - Determine the required data structures for input, processing and output and define their data types.
@@ -89,9 +69,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Use a debugger to monitor programme execution and detect errors.
 - Test programme code for functional correctness.
 - Define acceptance tests (black box test) to ensure error-free processing of the programme.
-
+-->
 <!-- #### Kenntnisse -->
-##### Knowledge
+<!-- ##### Knowledge -->
 
 <!--
 - Kennt die wichtigsten Kontrollstrukturen der strukturierten Programmierung (Sequenz, Selektion, Iteration) und kann an Beispielen erläutern, welche Sachverhalte im Ablauf eines Algorithmus diesen Kontrollstrukturen entsprechen.
@@ -123,7 +103,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Kennt die Bedeutung von Grenzwerten beim Testen und kann an Beispielen aufzeigen, wie damit die Korrektheit von Bedingungen in Programmen nachgewiesen werden kann.
 - Kennt den Aufbau eines Testprotokolls und kann an Beispielen aufzeigen, welche Ziele mit dem Testprotokoll verfolgt werden (Was, wann, von wem, wie intensiv und mit welchem Ergebnis getestet).
 -->
-
+<!--
 - Knows the most important control structures of structured programming (sequence, selection, iteration) and can use examples to explain which facts in the flow of an algorithm correspond to these control structures.
 - Knows a notation for the representation of a programme logic (e.g. Nassi Shneidermann) and can show how the most important control structures and the sequence of a programme are represented in it.
 - Knows represented facts in a structure diagram and other specifications to be taken into account when forming modules and can show how this can improve the clarity of a programme and increase the efficiency of programming.
@@ -152,14 +132,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Knows principles that must be taken into account when defining test data and test cases and can show how this can be used to check complete and correct processing of the information in a programme (white box test, black box test).
 - Knows the importance of limit values in testing and can show by means of examples how the correctness of conditions in programmes can be verified.
 - Knows the structure of a test protocol and can use examples to show which goals are pursued with the test protocol (what is tested, when, by whom, how intensively and with what result).
-
-----
+-->
 
 <!-- ### Algorithmen & Datenstrukturen -->
-#### Algorithms & Data Structures
+<!-- #### Algorithms & Data Structures -->
 
 <!-- #### Kompetenzen -->
-##### Skills
+<!-- ##### Skills -->
 
 <!--
 - Verschiedene Datenstrukturen kennen und anwenden.
@@ -168,15 +147,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Zeit- und Speicherkomplexität hinsichtlich bekannter Algorithmen verstehen.
 - Endliche Automaten verstehen und anwenden.
 -->
-
+<!--
 - Know and apply different data structures.
 - Evaluate suitable data structures.
 - Apply different search and sorting algorithms.
 - Understand time and memory complexity with respect to known algorithms.
 - Understand and apply finite automata.
-
+-->
 <!-- #### Kenntnisse -->
-##### Knowledge
+<!-- ##### Knowledge -->
 
 <!--
 - Funktionsweise relevanter Datenstrukturen (z.B. Array, Liste, Stack, Queue, Baum, Tabellen) erklären.
@@ -193,7 +172,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Anwendungsgebiete endlicher Automaten in der Softwareentwicklung kennen.
 - Einfache endliche Automaten implementieren.
 -->
-
+<!--
 - Explain how relevant data structures (e.g. array, list, stack, queue, tree, tables) work.
 - Implement common data structures independently.
 - Evaluate data structures in terms of functionality, efficiency and performance.
@@ -207,14 +186,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Know different classes of finite automata (e.g. acceptors, transductors).
 - Know areas of application of finite automata in software development.
 - Implement simple finite automata.
-
-----
+-->
 
 <!-- ### Datenbanktechnik -->
-#### Database technology
+<!-- #### Database technology -->
 
 <!-- #### Kompetenzen -->
-##### Skills
+<!-- ##### Skills -->
 
 <!--
 - Daten bzw. Datenbestand nach den für die Verarbeitung resp. Auswertung wichtigen Merkmalen hinsichtlich Struktur (Text, Datenblätter, Datenbank usw.) charakterisieren.
@@ -230,7 +208,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Mit SQL-Befehlen Transaktionen zur Bearbeitung und Auswertung der Datenbank ausführen.
 - Selektiert und manipuliert die Datenbestände eines RDBMS mit SQL-Befehlen.
 -->
-
+<!--
 - Characterise data or data stock according to the features important for processing or evaluation with regard to structure (text, data sheets, database, etc.).
 - Put unstructured data into a structured, processable form to enable evaluations.
 - Select a suitable visually recordable form for data and correlations and present them in the chosen form.
@@ -243,9 +221,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Implement a given logical database schema in a relational database management system (RDBMS) using database software or Structured Query Language (SQL) commands.
 - Use SQL commands to execute transactions to manipulate and evaluate the database.
 - Selects and manipulates the datasets of an RDBMS with SQL commands.
-
+-->
 <!-- #### Kenntnisse -->
-##### Knowledge
+<!-- ##### Knowledge -->
 
 <!--
 - Kennt die verschiedenen Formen von Daten (numerische - Messdaten/ Klassifikationen; verbale - Texte in schriftlicher oder gesprochener Form; nonverbale - Musik, Filme, Videos) die auf einem Datenträger gespeichert werden können und kann aufzeigen, wie sich diese Daten hinsichtlich der Auswertbarkeit mit einem Computersystem verhalten.
@@ -275,7 +253,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 -  Kennt die wichtigsten SQL-Befehle und deren Aufbau zur Manipulation von Datenbeständen.
 -  Kennt häufige Fehlerquellen bei der Programmierung mit SQL und Vorgehensweisen zur selbständigen Fehlerbehebung.
 -->
-
+<!--
 - Knows the different forms of data (numerical - measurement data/ classifications; verbal - texts in written or spoken form; non-verbal - music, films, videos) that can be stored on a data carrier and can show how these data behave in terms of evaluability with a computer system.
 - Knows the structural features of different information sources (text document, data sheets, databases) and can explain which consequences result from this for the electronic evaluation of these data sources.
 - Knows the relationships between data structures (associations, cardinalities) and can use examples from everyday life to show which facts can thus be represented in a data set.
@@ -302,14 +280,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Knows the most important SQL commands and their structure for selecting and evaluating datasets (via one or more tables).
 - Knows the most important SQL commands and their structure for manipulating data sets.
 - Knows common sources of errors when programming with SQL and procedures for independent error correction.
-
-----
+-->
 
 <!-- ### Objektorientiert implementieren -->
-#### Implement object-oriented
+<!-- #### Implement object-oriented -->
 
 <!-- #### Kompetenzen -->
-##### Skills
+<!-- ##### Skills -->
 
 <!--
 - Die Notation dynamischer und statischer Strukturen einer Anwendung mittels Unified Modeling Language (UML) nachvollziehen.
@@ -320,7 +297,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Programm auf Einhaltung der Funktionalität testen, Fehler erkennen und beheben.
 - Für funktionale Einheiten einer Anwendung Testfälle implementieren, um die Anwendung automatisch zu prüfen (Unit Test).
 -->
-
+<!--
 - Understand the notation of dynamic and static structures of an application using Unified Modelling Language (UML).
 - Implement class-based design.
 - Design and implement a user interface.
@@ -328,9 +305,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Comply with standards and guidelines when programming, documenting the programme inline, taking care to ensure maintainability and traceability.
 - Test the programme for compliance with functionality, detect and correct errors.
 - Implement test cases for functional units of an application in order to automatically test the application (unit test).
-
+-->
 <!-- #### Kenntnisse -->
-##### Knowledge
+<!-- ##### Knowledge -->
 
 <!--
 - Kennt Abstraktionsmittel wie Beziehungen, Klassen, Objekte, Attribute und Methoden, mit denen die reale Welt im Design abgebildet wird.
@@ -364,7 +341,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Kennt die zur Verfügung gestellten Mittel einer Testinfrastruktur um die Testfälle zu implementieren.
 - Kennt Mittel, die Abdeckung der Tests zu messen.
 -->
-
+<!--
 - Knows abstraction tools such as relationships, classes, objects, attributes and methods used to represent the real world in design.
 - Understands class as an abstract data type (ADT).
 - Understands the interaction of multiple classes in an application.
@@ -395,14 +372,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Knows procedures to find and define test cases for programme parts by means of suitable limits or path checks.
 - Knows the means provided by a test infrastructure to implement the test cases.
 - Knows the means to measure the coverage of the tests.
-
-----
+-->
 
 <!-- ### Prozesssimulation mit Matlab -->
-#### Process simulation with Matlab
+<!-- #### Process simulation with Matlab -->
 
 <!-- #### Kompetenzen -->
-##### Skills
+<!-- ##### Skills -->
 
 <!--
 - Arbeiten mit Matlab- Oberfläche.
@@ -425,7 +401,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Erstellen von Anwendungskomponenten, die auf Benutzerverhalten reagieren.
 - Erstellen von Apps mit mehreren Fenstern.
 -->
-
+<!--
 - Working with Matlab interface.
 - Entering commands and creating variables.
 - Analysing and visualising vector and matrix data.
@@ -445,9 +421,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Create and update graphical objects.
 - Create application components that respond to user behaviour.
 - Create apps with multiple windows.
-
+-->
 <!-- #### Kenntnisse -->
-##### Knowledge
+<!-- ##### Knowledge -->
 
 <!--
 - Kennt die wichtigen Funktionalitäten und die zugehörigen Benutzeroberflächen.
@@ -472,7 +448,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Kann lokale Anwendungsdaten hinzufügen.
 - Kann Apps mit mehreren Fenstern für Dialoge und Hilfsanwendungen erstellen.
 -->
-
+<!--
 - Knows the important functionalities and the associated user interfaces.
 - Can enter commands and create numeric and text variables.
 - Can label graphics.
@@ -494,7 +470,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - Can create and customise robust and flexible apps.
 - Can add local application data.
 - Can create apps with multiple windows for dialogues and helper apps.
-
+-->
 ----
 
 Last Edited on: 09/03/2021
