@@ -11,6 +11,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+### Projects
+
+- [Sudoku (Python)](https://github.com/YodaCh96/sudoku)
+- [NIM (C)](https://github.com/YodaCh96/nim-game) [Completed ✔️]
+- [Dice rolling simulator (Python)](https://github.com/YodaCh96/dice-rolling-simulator) [Completed ✔️]
+- [Mathgraphs (Matlab)](https://github.com/YodaCh96/mathgraphs) [Completed ✔️]
+- [Reaktionsspiel (Arduino)](https://github.com/YodaCh96/reaktionsspiel) [Completed ✔️]
+- [Snake (Arduino)](https://github.com/YodaCh96/snake-game) [Completed ✔️]
+
+### Courses 📚
+
+- [Python tutorial w3schools](https://www.w3schools.com/python/default.asp) [Completed ✔️]
+- [Python Crash Course](https://www.amazon.de/Python-Crash-Course-Hands-Project-Based/dp/1593276036) [Completed ✔️]
+- [HTML tutorial w3schools](https://www.w3schools.com/html/default.asp) [Completed ✔️]
+- [CSS tutorial w3schools](https://www.w3schools.com/css/default.asp) [Completed ✔️]
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
