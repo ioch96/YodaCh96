@@ -14,18 +14,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### Projects
 
 - [Sudoku (Python)](https://github.com/YodaCh96/sudoku)
-- [NIM (C)](https://github.com/YodaCh96/nim-game) [Completed ✔️]
-- [Dice rolling simulator (Python)](https://github.com/YodaCh96/dice-rolling-simulator) [Completed ✔️]
-- [Mathgraphs (Matlab)](https://github.com/YodaCh96/mathgraphs) [Completed ✔️]
-- [Reaktionsspiel (Arduino)](https://github.com/YodaCh96/reaktionsspiel) [Completed ✔️]
-- [Snake (Arduino)](https://github.com/YodaCh96/snake-game) [Completed ✔️]
+- [NIM (C)](https://github.com/YodaCh96/nim-game)
+- [Dice rolling simulator (Python)](https://github.com/YodaCh96/dice-rolling-simulator)
+- [Mathgraphs (Matlab)](https://github.com/YodaCh96/mathgraphs)
+- [Reaktionsspiel (Arduino)](https://github.com/YodaCh96/reaktionsspiel)
+- [Snake (Arduino)](https://github.com/YodaCh96/snake-game)
 
-### Courses 📚
+### Tutorials
 
-- [Python tutorial w3schools](https://www.w3schools.com/python/default.asp) [Completed ✔️]
-- [Python Crash Course](https://www.amazon.de/Python-Crash-Course-Hands-Project-Based/dp/1593276036) [Completed ✔️]
-- [HTML tutorial w3schools](https://www.w3schools.com/html/default.asp) [Completed ✔️]
-- [CSS tutorial w3schools](https://www.w3schools.com/css/default.asp) [Completed ✔️]
+- [Python tutorial w3schools](https://www.w3schools.com/python/default.asp)
+- [Python Crash Course](https://www.amazon.de/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
+- [HTML tutorial w3schools](https://www.w3schools.com/html/default.asp)
+- [CSS tutorial w3schools](https://www.w3schools.com/css/default.asp)
 
 ### 🛠 &nbsp;Tech Stack
 
