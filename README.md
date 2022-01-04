@@ -24,6 +24,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### Tutorials
 
+- [Learn Python 3 Codecademy](https://github.com/YodaCh96/Codecademy/blob/main/Learn_Python_3/README.md)
 - [Python tutorial w3schools](https://www.w3schools.com/python/default.asp)
 - [Python Crash Course](https://www.amazon.de/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
 - [HTML tutorial w3schools](https://www.w3schools.com/html/default.asp)
