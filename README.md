@@ -29,6 +29,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - [HTML tutorial w3schools](https://www.w3schools.com/html/default.asp)
 - [CSS tutorial w3schools](https://www.w3schools.com/css/default.asp)
 
+### Certificates
+
+- [Learn the Command Line](https://drive.google.com/file/d/1HfAKQo3v_OFbQfhz9RDSyskBhxIZV6U2/view?usp=sharing)
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
