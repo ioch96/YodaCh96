@@ -33,6 +33,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### Certificates
 
 - [Learn the Command Line](https://drive.google.com/file/d/1HfAKQo3v_OFbQfhz9RDSyskBhxIZV6U2/view?usp=sharing)
+- [Learn Git](https://drive.google.com/file/d/1o0NTBpZ8Xb3i0puG6SiqAdbse9iVRRkH/view?usp=sharing)
 
 ### 🛠 &nbsp;Tech Stack
 
