@@ -24,7 +24,7 @@ I like to explore new technologies and develop software solutions. I am always o
 
 ### Tutorials
 
-- [Learn Python 3 Codecademy](https://yodach96.github.io/Codecademy/Learn_Python_3)
+- [Learn Python 3 | Codecademy](https://yodach96.github.io/Codecademy/Learn_Python_3)
 - [Python tutorial w3schools](https://www.w3schools.com/python/default.asp)
 - [Python Crash Course](https://www.amazon.de/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
 - [HTML tutorial w3schools](https://www.w3schools.com/html/default.asp)
