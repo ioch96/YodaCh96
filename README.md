@@ -55,6 +55,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ----
 
+![Snake animation](https://github.com/YodaCh96/YodaCh96/blob/output/github-contribution-grid-snake.svg)
+
 <!-- ### Hardware Engineer at GIBZ -->
 
 <!-- #### Hardware and software engineering -->
