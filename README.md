@@ -18,7 +18,7 @@ I like to explore new technologies and develop software solutions. I am always o
 - [Reaktionsspiel (Arduino)](https://github.com/YodaCh96/reaktionsspiel)
 - [Snake (Arduino)](https://github.com/YodaCh96/snake-game)
 - [Delete Viber Files](https://github.com/YodaCh96/Del-Viber)
-- [Alien Invasion](https://github.com/YodaCh96/Alien-Invasion)
+- [Alien Invasion](https://github.com/YodaCh96/alien-invasion)
 - [CFS](https://github.com/Effie375/CFS)
 - [TkGrades](https://github.com/Effie375/TkGrades)
 
