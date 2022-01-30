@@ -11,20 +11,12 @@ I like to explore new technologies and develop software solutions. I am always o
 
 ### Projects
 
-- [Sudoku (Python)](https://github.com/YodaCh96/sudoku)
-- [NIM (C)](https://github.com/YodaCh96/nim-game)
-- [Dice rolling simulator (Python)](https://github.com/YodaCh96/dice-rolling-simulator)
-- [Mathgraphs (Matlab)](https://github.com/YodaCh96/mathgraphs)
-- [Reaktionsspiel (Arduino)](https://github.com/YodaCh96/reaktionsspiel)
-- [Snake (Arduino)](https://github.com/YodaCh96/snake-game)
-- [Delete Viber Files](https://github.com/YodaCh96/Del-Viber)
-- [Alien Invasion](https://github.com/YodaCh96/alien-invasion)
-- [CFS](https://github.com/Effie375/CFS)
-- [TkGrades](https://github.com/Effie375/TkGrades)
+- [Dice Rolling Simulator](https://github.com/YodaCh96/dice-rolling-simulator)
+- [Guess The Number](https://github.com/YodaCh96/guess-the-number)
+- [Multiplication Table](https://github.com/YodaCh96/multiplication-table)
 
 ### Tutorials
 
-- [Learn Python 3 | Codecademy](https://yodach96.github.io/codecademy/python)
 - [Python tutorial w3schools](https://www.w3schools.com/python/default.asp)
 - [Python Crash Course](https://www.amazon.de/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
 - [HTML tutorial w3schools](https://www.w3schools.com/html/default.asp)
