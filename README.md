@@ -16,6 +16,13 @@ I like to explore new technologies and develop software solutions. I am always o
 - [Multiplication Table](https://github.com/YodaCh96/multiplication-table)
 - [Delete Viber Files](https://github.com/YodaCh96/delete-viber-files)
 
+### Contributions
+
+- [PLR100](https://github.com/Effie375/PLR100)
+- [PLR104](https://github.com/Effie375/PLR104)
+- [PLR110](https://github.com/Effie375/PLR110)
+- [PLR132](https://github.com/Effie375/PLR132)
+
 ### Tutorials
 
 - [Python tutorial w3schools](https://www.w3schools.com/python/default.asp)
