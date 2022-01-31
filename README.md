@@ -14,6 +14,7 @@ I like to explore new technologies and develop software solutions. I am always o
 - [Dice Rolling Simulator](https://github.com/YodaCh96/dice-rolling-simulator)
 - [Guess The Number](https://github.com/YodaCh96/guess-the-number)
 - [Multiplication Table](https://github.com/YodaCh96/multiplication-table)
+- [Delete Viber Files](https://github.com/YodaCh96/delete-viber-files)
 
 ### Tutorials
 
