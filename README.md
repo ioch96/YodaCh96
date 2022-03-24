@@ -1,7 +1,5 @@
 <h2>Hi, I'm Ioannis Christodoulakis!</h2>
 <img align='right' src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200.gif" width="230">
-<p><em>Hardware Engineer and Application Developer at <a href="https://www.zg.ch/behoerden/volkswirtschaftsdirektion/hfie">HFIE</a>
-</em></p>
 
 ### A little more about me...
 
