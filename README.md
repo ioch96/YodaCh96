@@ -7,27 +7,6 @@ I'm a passionate self-taught software engineer from Greece. My passion for softw
 
 I like to explore new technologies and develop software solutions. I am always on the lookout for new projects to work on and new people to collaborate with.
 
-### Projects
-
-- [Dice Rolling Simulator](https://github.com/YodaCh96/dice-rolling-simulator)
-- [Guess The Number](https://github.com/YodaCh96/guess-the-number)
-- [Multiplication Table](https://github.com/YodaCh96/multiplication-table)
-- [Delete Viber Files](https://github.com/YodaCh96/delete-viber-files)
-
-### Contributions
-
-- [PLR100](https://github.com/Effie375/PLR100)
-- [PLR104](https://github.com/Effie375/PLR104)
-- [PLR110](https://github.com/Effie375/PLR110)
-- [PLR132](https://github.com/Effie375/PLR132)
-
-### Tutorials
-
-- [Python tutorial w3schools](https://www.w3schools.com/python/default.asp)
-- [Python Crash Course](https://www.amazon.de/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
-- [HTML tutorial w3schools](https://www.w3schools.com/html/default.asp)
-- [CSS tutorial w3schools](https://www.w3schools.com/css/default.asp)
-
 ### Certificates
 
 - [Learn the Command Line](https://drive.google.com/file/d/1HfAKQo3v_OFbQfhz9RDSyskBhxIZV6U2/view?usp=sharing)
