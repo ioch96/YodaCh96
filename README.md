@@ -3,9 +3,7 @@
 
 ### A little more about me...
 
-I'm a passionate self-taught software engineer from Greece. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I like to explore new technologies and develop software solutions. I am always on the lookout for new projects to work on and new people to collaborate with.
+I'm a passionate self-taught software engineer from Greece. Along with a competent software developing team and strong personal knowledge, skills, and experience in software engineering, I am positive that this goal can be achieved. My experience as a junior software developer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies. I am confident that I can be a useful talent to the company if given the opportunity.
 
 ### Certificates
 
