@@ -3,6 +3,8 @@
 
 I'm a passionate self-taught software engineer from Greece. Along with a competent software developing team and strong personal knowledge, skills, and experience in software engineering, I am positive that this goal can be achieved. My experience as a junior software developer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies. I am confident that I can be a useful talent to the company if given the opportunity.
 
+<br><br><br>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
