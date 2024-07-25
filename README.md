@@ -1,7 +1,7 @@
 <h2>Hi, I'm Ioannis Christodoulakis!</h2>
 <img align='right' src="https://media1.giphy.com/media/Wn74RUT0vjnoU98Hnt/200.gif" width="230">
 
-I'm a passionate self-taught software engineer from Greece. Along with a competent software developing team and strong personal knowledge, skills, and experience in software engineering, I am positive that this goal can be achieved. My experience as a junior software developer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies. I am confident that I can be a useful talent to the company if given the opportunity.
+I'm a passionate self-taught software engineer from Greece. Along with a competent software developing team and strong personal knowledge, skills, and experience in software engineering, I am positive that this goal can be achieved. My experience as a junior software developer enhanced my abilities in designing, implementing, testing, and upgrading software. One of my objectives is to keep updated with the latest IT trends and technologies.
 
 <br><br><br>
 
